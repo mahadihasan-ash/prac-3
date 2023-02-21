@@ -1,0 +1,41 @@
+.header{
+    height: 100px;
+    background-color: maroon;
+}
+.emotion{
+    overflow: hidden;
+}
+.love{
+    float: left;
+    width: 55%;
+    height: 100px;
+    background-color: coral;
+}
+.hate{
+    float: right;
+   width: 45%;
+   height: 100px;
+   background-color: black;
+}
+.group{
+    overflow: hidden;
+}
+.boy{
+    
+    width: 33.33%;
+    height: 100px;
+    float: left;
+}
+.good{
+ background-color:goldenrod;
+}
+.bad{
+ background-color: bisque;
+}
+.none{
+background-color: navy;
+} 
+.mamu{
+    height: 110px;
+    background-color: mediumaquamarine;
+}
